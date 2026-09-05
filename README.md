@@ -34,8 +34,8 @@ Each check is kept separate (not blended into one score) so the UI can show
 *which* reason triggered the flag, with the actual numbers, rather than
 just a label.
 
-## Architecture
-# Watchlist, But It Remembers Why You Added Every Stock
+
+# Catchup — Your smart market watchlist that keeps you ahead of every market move
 
 Built for Groww Code 2026.
 
